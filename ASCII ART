@@ -1,0 +1,19 @@
+# first name is "Omar" and last name is "Salem"
+# i am so lazy
+print(""" 
+   OOO 
+  O    O
+  O    O
+  O    O
+  O    O
+  O    O
+   OOO """)
+print("""
+  M       M
+  M M   M M
+  M M   M M
+  M   M   M
+  M       M
+  M       M
+  M       M
+""")
